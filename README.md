@@ -4,4 +4,4 @@
 
 ## Built with:
 
-### ReactJS, leaflet (for map data), Google GeoCode API, Cloud Firestore, hosted on Vercel
+### ReactJS, leaflet (for map data), Google GeoCode API, Firebase Auth, Cloud Firestore, Vercel hosting
